@@ -1,4 +1,4 @@
-  # Credit Card Approval Prediction Using Machine Learning
+
 ![image](https://github.com/user-attachments/assets/ea6ddcee-10a3-40dd-9a50-cf6a2404630d)
 
 
